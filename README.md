@@ -22,6 +22,13 @@ The Reward Points Calculator is a React application that fetches transaction dat
 2. **install node js**
     ```bash
     -npm install
+
+3. **Run the Node server:**
+    ```bash
+    -node server.js  
+
+4. **Start the React application**
+    ```bash
     -npm start
 
 
