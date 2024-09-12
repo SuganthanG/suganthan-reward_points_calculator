@@ -18,3 +18,7 @@ The Reward Points Calculator is a React application that fetches transaction dat
 
    ```bash
    git clone https://github.com/SuganthanG/suganthan-reward_points_calculator/tree/new-branch
+
+2.**install node js**
+    -npm install
+    -npm start
